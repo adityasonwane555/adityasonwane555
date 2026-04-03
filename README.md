@@ -6,8 +6,8 @@
 
 ## Current Projects
 
-- 🧮 **[SDE Projects](https://openclaw.ai)** - the AI that actually does things
-- 🤖 **[ROS2 Learnings](https://github.com/amantus-ai/vibetunnel)** - Projects I made while learing ROS2
+- 🧮 **[SDE Projects](https://github.com/adityasonwane555/SDE-Projects.git)** - the AI that actually does things
+- 🤖 **[ROS2 Learnings](https://github.com/adityasonwane555/ROS2-Projects.git)** - Projects I made while learing ROS2
   
 ## GitHub Activity
 
