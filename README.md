@@ -2,14 +2,14 @@
  
 📍 **Kasa Kai Pune** | 🦾 **Robotics Freak** | 🤓 **Learing System Design & ROS**
 
-![Fusion360](https://img.shields.io/badge/-Fusion360-000000?style=flat-square&logo=Autodesk&logoColor=white)
-![Gazebo](https://img.shields.io/badge/-Gazebo-ED651C?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAJ1AAACdQF32cIiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAPdJREFUOI3N0jEvRFEUBOBvl0YlCtlQ0KER1FqVREFFtX9BtwmJRtTWf6CTSKhEKSE6iU0IP4JuG6zineXa7LtbaEzycu7LTCZz5l7+iKEMV0EDy7gpE1UzBnOYwjRmy0TDGYNnjKODl1zMFEtYSZLNx3yI+Ykr3PczGMEFdvGeSXyANbR7VxhDC3dlcQOt0LYlUTdwnIiOcI4JTEayw4Q/wXpqsIl6IljAExbje4zZRR1bvSt8JOcdzOAy/ms4S/jvjrol7mNU0fK2PJqR/A17qdFqkIPQDG2Fnw46uI2og1BTPO0Ovzt4VVzhqWKVfqjiOuL/E3wBBk4rll2AwNUAAAAASUVORK5CYII=&logoColor=white)
+![Fusion360](https://img.shields.io/badge/-Fusion360-303030?style=flat-square&logo=Autodesk&logoColor=white)
+![Gazebo](https://img.shields.io/badge/-Gazebo-ED651C?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAASFJREFUOI2Nkb1KA0EUhc8sUYNFAkogIAn4BlpYKMRCxNrHsRMUqzyAb5EmTSqxEhXBPxR/yghqsNHGn4ifhXdhGHc2e5rdufd+5zJnpIiAMnAKXAKTsbmogGngA/gC6rE5F0BO0rqkVUk1SVVrvUp6kbQnqeOc+8naOAF0Ga0eUM4y2CgAp9r0wXngCBhasw+0gQsPOLfag52HwCEwp2AQYMmMa8C3hThltVYwe5ZIagS3GbdvyUJO7N/vpWoK2Alcn4Fd4N6r3VltEMxupzksAwd5qQU6BlrhKywA7wXgT2Dx3zOayQpwnQPfAms+4yJGM5LqkipWepM0cM71MzcHcAXYAh69zU/8hV0dBTeBq5wr3ACzMTgB9guEeAKMpdwvTRcuKcVVK84AAAAASUVORK5CYII=&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-0062D3?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F5EE27?style=flat-square&logo=python&logoColor=#3776AB)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALxJREFUOI3N0TFuwkAQBdAVjRWLKyAfgYIoBS005CJwl3AYUlEkKYAzcApMGg7wKLKxzGIbJBp+N/v/zPw/G8LTAxnGjwyY49jG9xJxgSLRvIcQdh181TxEiY/E/gmLWC+jZtjUfMAG/dr71B+KWL/gC794rdsu8YM8GbzEPnnLo7ZEcXGDBsxCCOsOXhph+x8Bg2h/kmz/jhFGnUfEIh4wSyJdH7EmqL4JK3y28TcRN83vErcMeKvbf16cAVCD7IO4ORRSAAAAAElFTkSuQmCC&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-303030?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALxJREFUOI3N0TFuwkAQBdAVjRWLKyAfgYIoBS005CJwl3AYUlEkKYAzcApMGg7wKLKxzGIbJBp+N/v/zPw/G8LTAxnGjwyY49jG9xJxgSLRvIcQdh181TxEiY/E/gmLWC+jZtjUfMAG/dr71B+KWL/gC794rdsu8YM8GbzEPnnLo7ZEcXGDBsxCCOsOXhph+x8Bg2h/kmz/jhFGnUfEIh4wSyJdH7EmqL4JK3y28TcRN83vErcMeKvbf16cAVCD7IO4ORRSAAAAAElFTkSuQmCC&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-303030?style=flat-square&logo=anthropic&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
