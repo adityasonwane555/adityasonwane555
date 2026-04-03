@@ -1,4 +1,4 @@
-﻿# Hello sapiens welcome to my github ✌️😼
+﻿# Hello sapiens! Welcome to my github ✌️😼
  
 📍 **Kasa Kai Pune** | 🦾 **Robotics Freak** | 🤓 **Learing System Design & ROS**
 
@@ -10,7 +10,7 @@
 - 🤖 **[ROS2 Learnings](https://github.com/adityasonwane555/ROS2-Projects.git)** - Projects I made while learing ROS2
   
 ## GitHub Activity
-
+**
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adityasonwane555)
 
 ## Connect
