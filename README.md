@@ -17,7 +17,7 @@
 
 ## Current Projects
 
-- 🧮 **[SDE Projects](https://github.com/adityasonwane555/SDE-Projects.git)** - the AI that actually does things
+- 🧮 **[SDE Projects](https://github.com/adityasonwane555/SDE-Projects.git)** - This repo is guide to all my SDE projects
 - 🤖 **[ROS2 Learnings](https://github.com/adityasonwane555/ROS2-Projects.git)** - Projects I made while learing ROS2
   
 ## GitHub Activity
