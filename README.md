@@ -26,6 +26,12 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adityasonwane555)
 
+## What I'm Doing
+
+- **Robust Systems** - Building systems that are future-proo and scalabe.
+- **Writing about Robotics, SDE, and Rocketry** - Sharing my learnings on [adityasonwane](https://substack.com/@adityasonwane555).
+- **Automating Everything** - Building robots and systems that can automate anything.
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-twitter-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/adityasonwane55)
