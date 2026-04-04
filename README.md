@@ -28,7 +28,7 @@
 
 ## What I'm Doing
 
-- **Robust Systems** - Building systems that are future-proo and scalabe.
+- **Robust Systems** - Building systems that are future-proof and scalabe.
 - **Writing about Robotics, SDE, and Rocketry** - Sharing my learnings on [adityasonwane](https://substack.com/@adityasonwane555).
 - **Automating Everything** - Building robots and systems that can automate anything.
 
