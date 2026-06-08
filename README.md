@@ -1,6 +1,6 @@
 ﻿# Hello sapiens! Welcome to my github <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63c/512.gif" alt="😼" width="32" height="32">
  
-📍 **Kasa Kai Pune** | 🦾 **Robotics Freak** | 🤓 **Learing System Design & ROS**
+📍 **Kasa Kai Pune** | 🦾 **Robotics Freak** | 🤓 **Learing System Design, Comp. Vision & ROS**
 
 ![Fusion360](https://img.shields.io/badge/-Fusion360-303030?style=flat-square&logo=Autodesk&logoColor=white)
 ![Gazebo](https://custom-icon-badges.demolab.com/badge/-Gazebo-E95420?logo=gazebologo&style=flat-square&logoColor=white)
