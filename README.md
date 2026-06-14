@@ -12,7 +12,7 @@
 ![Codex](https://custom-icon-badges.demolab.com/badge/-Codex-303030?logo=codex-logo&style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-c15f3c?style=flat-square&logo=anthropic&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 
 > "I have seen further than others thats by standing on shoulder of gaints."
