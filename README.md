@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-0062D3?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F5EE27?style=flat-square&logo=python&logoColor=#3776AB)
 ![Codex](https://img.shields.io/badge/-Codex-303030?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALxJREFUOI3N0TFuwkAQBdAVjRWLKyAfgYIoBS005CJwl3AYUlEkKYAzcApMGg7wKLKxzGIbJBp+N/v/zPw/G8LTAxnGjwyY49jG9xJxgSLRvIcQdh181TxEiY/E/gmLWC+jZtjUfMAG/dr71B+KWL/gC794rdsu8YM8GbzEPnnLo7ZEcXGDBsxCCOsOXhph+x8Bg2h/kmz/jhFGnUfEIh4wSyJdH7EmqL4JK3y28TcRN83vErcMeKvbf16cAVCD7IO4ORRSAAAAAElFTkSuQmCC&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-303030?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-c15f3c?style=flat-square&logo=anthropic&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
