@@ -15,7 +15,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 
-> "I have seen further than others thats by standing on shoulder of gaints."
+> "I have seen further than others thats by standing on shoulder of giants."
 
 ## Current Projects
 
