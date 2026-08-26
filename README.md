@@ -22,7 +22,7 @@
 - 🧮 **[SDE Projects](https://github.com/adityasonwane555/SDE-Projects.git)** - This repo is guide to all my SDE projects
 - 🤖 **[ROS2 Learnings](https://github.com/adityasonwane555/ROS2-Projects.git)** - Projects I made while learing ROS2
 - 🎒 **[College Projects](https://github.com/adityasonwane555/College-Projects.git)** - Projects I made during my college
-- 😁 **[Fun Projects](https://github.com/adityasonwane555/Fun-Projects.git)** - This is my sandbox world of coding
+- 😁 **[Fun Projects](https://github.com/adityasonwane555/Projects-For-Fun.git)** - This is my sandbox world of coding
   
 ## GitHub Activity
 
