@@ -9,6 +9,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-0062D3?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F5EE27?style=flat-square&logo=python&logoColor=#3776AB)
+![Rust](https://img.shields.io/badge/-Rust-1E2650?style=flat-square&logo=rust&logoColor=white)
 ![Codex](https://custom-icon-badges.demolab.com/badge/-Codex-303030?logo=codex-logo&style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-c15f3c?style=flat-square&logo=anthropic&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
