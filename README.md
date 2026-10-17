@@ -17,7 +17,6 @@
 
 > "I have seen further than others thats by standing on shoulder of giants."
 ## Main Course
-- 🔖 **[Emchive](https://emchive.com/)** - Your internet is worth remembering
 
 ## Current Projects
 
